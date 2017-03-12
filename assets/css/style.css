@@ -140,10 +140,11 @@ width: 600px;
 height: 130px;
 }
 
-.button {
-padding: 5px;
-background: #4aaaa5
+#submit {
+background-color: #4aaaa5;
 color: white;
+font-family: arial;
+padding: 5px;
 }
 
 
