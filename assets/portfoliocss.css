@@ -16,7 +16,10 @@ padding: 10px;
 background: #fff;
 }
 
-img {
-height: 200px;
-width: 200px;
+.image {
+position: relative;
+}
+
+h2 {
+position: absolute;
 }
