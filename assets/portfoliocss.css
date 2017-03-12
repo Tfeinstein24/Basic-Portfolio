@@ -16,10 +16,6 @@ padding: 10px;
 background: #fff;
 }
 
-.image {
-position: relative;
-}
-
-h2 {
-position: absolute;
+.title {
+display: show;
 }
